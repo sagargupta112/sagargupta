@@ -9,6 +9,10 @@ You can download the program by clicking on the code button and then you will se
 ## Executing Program
 Run the program by pasting the downloaded file into RemixIDE. Then compile the code and deploy it. after installation, add your account address and the value by which you want to increase the value of the mint function in the section. Click on the mint to see the total. the offer is added by clicking the end offer button. Just like you can burn with your token, you can change things like the token's name, abbreviation, and total inventory.
 
+
+<img width="184" alt="pic 2" src="https://github.com/sagargupta112/sagargupta/assets/170393529/dc10a25a-d0d3-4015-ad56-2e2fdd6b8b6e">
+
+
 # Authors
 Sagar Gupta
 # License
